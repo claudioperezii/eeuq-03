@@ -1,6 +1,6 @@
 
-Shear Building: Sampling, Reliability and Sensitivity
-=====================================================
+3-Story Frame - Reliability
+===========================
 
 Consider the problem of uncertainty quantification in a three story shear building
 
